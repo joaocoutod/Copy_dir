@@ -1,1 +1,1 @@
-# Script para copiar diretórios com seus subdiretórios
+# Script para copiar diretório com seus subdiretórios
